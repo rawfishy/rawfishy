@@ -1,6 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/0-fish?logoSize=string&label=fishy!&labelColor=%231b141c&color=%2336223b&cacheSeconds=3600">
-
-
-
-
-
+<p align="center">
+  <a href="https://github.com/fishy?tab=followers">
+    <img src="https://img.shields.io/github/followers/fishyE?label=%E2%8B%84%20fishy&style=flat&labelColor=2c1b2e&color=1b141c" alt="fishy followers badge">
+  </a>
+</p>
