@@ -5,9 +5,7 @@
 
 
 
-
 [**straw**](https://rawfishy.straw.page/)
-
 
 [**atabook**](https://rawfishy.atabook.org/)
 
