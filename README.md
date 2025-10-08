@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <a href="https://tr.pinterest.com/pin/10836855347053380/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/88e8c696-21b5-430c-91e0-a67d3d20d6d5" width="300" alt="Pinterest-inspired image" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" />
+  <a href="https://tr.pinterest.com/pin/10836855347053380/" target="_blank">  
+<img width="439" height="568" alt="e7d7b40f-2c30-4085-af10-126254929748-removebg-preview" src="https://github.com/user-attachments/assets/3a753b6f-6669-4f10-a52b-e31657f93cf1" />
   </a>
   <br>
   <sub><i>sin of envy .</i></sub>
