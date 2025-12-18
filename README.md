@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rawfishy&label=fishy!&color=3b3b47)
 
 <p align="center">
-  <a href="" target="_blank">  <img width="439" height="568" alt="image" src="https://github.com/user-attachments/assets/8db427b7-497c-448f-9360-18d1c3770973" />
+  <a href="" target="_blank">  <img width="439" height="568" alt="image" src="https://github.com/user-attachments/assets/57f4097e-ddb0-482b-bf34-978de9f19ead" />
   </a>
   <br>
   
