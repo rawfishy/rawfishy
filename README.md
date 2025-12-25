@@ -1,13 +1,13 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=rawfishy&label=fishy!&color=3b3b47)
+![](https://komarev.com/ghpvc/?username=rawfishy&label=fishy&color=3b3b47)
 
 <p align="center">
   <a href="" target="_blank">  <img width="439" height="568" alt="image" src="https://github.com/user-attachments/assets/57f4097e-ddb0-482b-bf34-978de9f19ead" />
   </a>
   <br>
   
-  <sub><i>the one and only true god.</i></sub>
+  <sub><i>𓌔 𝐭𝐡𝐞 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐭𝐫𝐮𝐞 𝐠𝐨𝐝 ₎₎</i></sub>
 </p>
 
 
