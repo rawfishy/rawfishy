@@ -13,9 +13,9 @@
 
 
 
-[**𝒔𝒕𝒓𝒂𝒘𝒑𝒂𝒈𝒆**](https://rawfishy.straw.page/)
+[**𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦**](https://rawfishy.straw.page/)
 
-[**𝒂𝒕𝒂𝒃𝒐𝒐𝒌**](https://rawfishy.atabook.org/)
+[**𝘢𝘵𝘢𝘣𝘰𝘰𝘬**](https://rawfishy.atabook.org/)
 
-[**𝒄𝒐𝒍𝒐𝒓 𝒎𝒚 𝒕𝒓𝒆𝒆**](https://colormytree.me/2025/01KBD9A4CS1FWFA3ST0AC50AHB)
+[**𝘤𝘰𝘭𝘰𝘳 𝘮𝘺 𝘵𝘳𝘦𝘦**](https://colormytree.me/2025/01KBD9A4CS1FWFA3ST0AC50AHB)
 
