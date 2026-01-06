@@ -18,5 +18,5 @@
 
 [**𝘢𝘵𝘢𝘣𝘰𝘰𝘬**](https://rawfishy.atabook.org/)
 
-[**𝘤𝘰𝘭𝘰𝘳 𝘮𝘺 𝘵𝘳𝘦𝘦**](https://colormytree.me/2025/01KBD9A4CS1FWFA3ST0AC50AHB)
+
 
