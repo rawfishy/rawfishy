@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=rawfishy&label=⟢✒️゛&color=3b3b47)
+![](https://komarev.com/ghpvc/?username=rawfishy&label=ㅤ⟢✒️゛&color=3b3b47)
 
 <p align="center"> <img width="439" height="568" alt="Untitled173_20260111143135 (1)" src="https://github.com/user-attachments/assets/18cb4e3d-734a-4099-a4b1-5c4cd41e0080" />
   <a href="" target="_blank">  
